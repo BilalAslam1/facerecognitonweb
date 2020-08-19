@@ -24,7 +24,7 @@ const particleOptions = {
 };
 const Clarifai = require("clarifai");
 const app = new Clarifai.App({
-  apiKey: "17d64ef0511c412f9b80b6a2aeeb7e90",
+  apiKey: "test",
 });
 
 class App extends Component {
